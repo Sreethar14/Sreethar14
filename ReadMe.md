@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Sreethar14<br>🤖 I’m interested in Programming...<br>🌱 Now AI and Data SCinece Enthusiast<br>🔎 Good Internal audit knowledge<br>📝 Good documentation knowledge<br>💞️ I’m looking to collaborate on ...<br>📫 How to reach me ...
+👋 Hi, I’m @Sreethar14<br>🤖 I’m interested in Programming...<br>🌱 Now AI and Data Scinece Enthusiast<br>🔎 Good Internal audit knowledge<br>📝 Good documentation knowledge<br>💞️ I’m looking to collaborate on ...<br>📫 How to reach me ...
 
 
 ## 🌐 Socials:
